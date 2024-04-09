@@ -1,0 +1,11 @@
+C:\Users\Amin\Desktop\C# Projects\LibraryManagementSystem.exe
+C:\Users\Amin\Desktop\C# Projects\LibraryManagementSystem.dll
+C:\Users\Amin\Desktop\C# Projects\LibraryManagementSystem.deps.json
+C:\Users\Amin\Desktop\C# Projects\LibraryManagementSystem.runtimeconfig.json
+C:\Users\Amin\Desktop\C# Projects\LibraryManagementSystem.pdb
+C:\Users\Amin\Desktop\C# Projects\System.Data.SqlClient.dll
+C:\Users\Amin\Desktop\C# Projects\runtimes\win-arm64\native\sni.dll
+C:\Users\Amin\Desktop\C# Projects\runtimes\win-x64\native\sni.dll
+C:\Users\Amin\Desktop\C# Projects\runtimes\win-x86\native\sni.dll
+C:\Users\Amin\Desktop\C# Projects\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Amin\Desktop\C# Projects\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
